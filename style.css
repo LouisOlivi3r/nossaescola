@@ -97,3 +97,8 @@ text-decoration: none;
 .estudante_titulo a {
     font-size: 60px;
 }
+
+.estudante-imagem {
+    width: 150px;
+    height: auto;
+}
