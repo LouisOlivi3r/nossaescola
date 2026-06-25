@@ -3,15 +3,15 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-body{
-    background-color: #003b05;
-font-family: "Poppins", sans-serif;
+body {
+    background-color: #046e2d96;
+    font-family: "Poppins", sans-serif;
 }
-header{
-background-color: #0049109a;
-color: rgba(0, 65, 11, 0.432);
-width: 100%;
-padding: 20px;
+
+header {
+    background-color: transparent;
+    width: 100%;
+    padding: 0;
 }
 .cabecalho-itens{
 max-width: 200px;
