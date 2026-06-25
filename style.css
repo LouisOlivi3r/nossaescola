@@ -4,12 +4,12 @@ padding: 0;
 box-sizing: border-box;
 }
 body{
-    background-color: #115a0e9a;
+    background-color: #003b05;
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #115a0e9a;
-color: rgba(12, 97, 26, 0.432);
+background-color: #0049109a;
+color: rgba(0, 65, 11, 0.432);
 width: 100%;
 padding: 20px;
 }
