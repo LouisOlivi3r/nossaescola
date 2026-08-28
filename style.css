@@ -120,7 +120,7 @@ ul {
 }
 
 ul li {
-  float: left;
+  float: center;
 }
 
 ul li a {
@@ -132,5 +132,5 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #eeeeea99;
+  background-color: #eeeeea99;+
 }
